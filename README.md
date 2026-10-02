@@ -26,6 +26,7 @@ The Store wants to create an annual sales report for the year. So that, the owne
 
 ## Dashboard
 
+<img width="778" height="336" alt="Screenshot 2026-10-01 141840" src="https://github.com/user-attachments/assets/f2376723-07ad-4d60-b784-2727f9fa2c2a" />
 
 
 
